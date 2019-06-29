@@ -24,3 +24,5 @@
 ## Documentations 
 https://fastapi.tiangolo.com/
 
+## Full Example
+https://github.com/tiangolo/full-stack-fastapi-postgresql
